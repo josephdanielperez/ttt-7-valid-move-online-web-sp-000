@@ -1,4 +1,4 @@
-def vaild_move?(board, index)
+def valid_move?(board, index)
 end
 
 
