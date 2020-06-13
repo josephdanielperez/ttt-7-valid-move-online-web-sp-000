@@ -1,5 +1,5 @@
 def vaild_move?(board, index)
-  if 
+  if
 end
 
 
